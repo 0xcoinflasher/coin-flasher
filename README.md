@@ -11,5 +11,6 @@ Email: contact@coinflasher.online
 
 X (Twitter): https://twitter.com/0xcoinflasher.
 
-![Screenshot_202312041652](https://github.com/0xcoinflasher/coin-flasher/assets/151797585/fe339049-4120-4d3b-881b-6b4497ad4d4f)
-![Screenshot_20231201-141704](https://github.com/0xcoinflasher/coin-flasher/assets/151797585/7916f094-212e-416b-90ae-35a1fb6a13d5)
+
+![sc1](https://github.com/0xcoinflasher/coin-flasher/assets/151797585/22cb9084-e22a-47dd-8c63-52efaee0b819)![sc2](https://github.com/0xcoinflasher/coin-flasher/assets/151797585/e9457f5b-43b8-4dfa-90e3-13e6bd8384dc)
+
