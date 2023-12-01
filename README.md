@@ -10,5 +10,6 @@ Telegram: https://t.me/coinflasher_bot
 Email: contact@coinflasher.online 
 
 X (Twitter): https://twitter.com/0xcoinflasher.
-![Screenshot_20231201-141652](https://github.com/0xcoinflasher/coin-flasher/assets/151797585/fe339049-4120-4d3b-881b-6b4497ad4d4f)
+
+![Screenshot_202312041652](https://github.com/0xcoinflasher/coin-flasher/assets/151797585/fe339049-4120-4d3b-881b-6b4497ad4d4f)
 ![Screenshot_20231201-141704](https://github.com/0xcoinflasher/coin-flasher/assets/151797585/7916f094-212e-416b-90ae-35a1fb6a13d5)
