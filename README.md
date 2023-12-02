@@ -11,6 +11,8 @@ Email: contact@coinflasher.online
 
 X (Twitter): https://twitter.com/0xcoinflasher
 
+![287278312-22cb9084-e22a-47dd-8c63-52efaee0b819](https://github.com/0xcoinflasher/email-flasher/assets/151797585/0a2f24d6-f8cb-4d93-9731-ebf8d396dddf)  ![287278384-e9457f5b-43b8-4dfa-90e3-13e6bd8384dc](https://github.com/0xcoinflasher/email-flasher/assets/151797585/df1b2424-13f5-4276-8489-d19997ad4e49)
 
-![sc1](https://github.com/0xcoinflasher/coin-flasher/assets/151797585/22cb9084-e22a-47dd-8c63-52efaee0b819)![sc2](https://github.com/0xcoinflasher/coin-flasher/assets/151797585/e9457f5b-43b8-4dfa-90e3-13e6bd8384dc)
+While you're here, you can hire the developer for any custom tool or script you might need. I can build all kinds of crypto related projects and hacking tools. Find me at https://twitter.com/0xt0bey
+
 
