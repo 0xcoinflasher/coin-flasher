@@ -3,13 +3,11 @@ Coin Flasher is a software application that lets users flash multiple major cryp
 
 DISCLAIMER: 0xcoinflasher is not responsible for whatever damage or loss of funds is caused by the use of this software!
 
-Get Coin Flasher here: https://www.coinflasher.online or contact us via:
+Get Coin Flasher here: https://www.coinflashr.com or contact us via:
 
-Telegram: https://t.me/coinflasher
+Telegram: https://t.me/coinflashr
 
-Email: contact@coinflasher.online 
-
-X (Twitter): https://twitter.com/0xcoinflasher
+Email: mail@coinflashr.com
 
 ![287278312-22cb9084-e22a-47dd-8c63-52efaee0b819](https://github.com/0xcoinflasher/email-flasher/assets/151797585/0a2f24d6-f8cb-4d93-9731-ebf8d396dddf)  ![287278384-e9457f5b-43b8-4dfa-90e3-13e6bd8384dc](https://github.com/0xcoinflasher/email-flasher/assets/151797585/df1b2424-13f5-4276-8489-d19997ad4e49)
 
