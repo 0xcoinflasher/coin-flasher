@@ -9,8 +9,4 @@ Telegram: https://t.me/coinflashr
 
 Email: mail@coinflashr.com
 
-![287278312-22cb9084-e22a-47dd-8c63-52efaee0b819](https://github.com/0xcoinflasher/email-flasher/assets/151797585/0a2f24d6-f8cb-4d93-9731-ebf8d396dddf)  ![287278384-e9457f5b-43b8-4dfa-90e3-13e6bd8384dc](https://github.com/0xcoinflasher/email-flasher/assets/151797585/df1b2424-13f5-4276-8489-d19997ad4e49)
-
-While you're here, you can order custom infiltration and hacking tools from me. Find me at https://t.me/xt0bey
-
 
